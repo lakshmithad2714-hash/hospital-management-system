@@ -63,12 +63,21 @@ python app.py
 ## 📂 Project Structure
 
 ```
+## 📂 Project Structure
+
+```
 Hospital-management-system/
 │
 ├── app.py
 ├── database.py
 ├── utils.py
 ├── assets/
+├── images/
+│   ├── image1.png.jpeg
+│   ├── image2.png.jpeg
+│   ├── image3.png.jpeg
+│   ├── ...
+│   └── image13.png.jpeg
 ├── hospital.db
 └── README.md
 ```
