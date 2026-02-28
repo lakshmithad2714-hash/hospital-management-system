@@ -89,19 +89,22 @@ Lakshmitha D
 MCA Graduate
 ---
 
+
 ## 📸 Application Screenshots
 
-![Screenshot 1](images/image1.png)
-![Screenshot 2](images/image2.png)
-![Screenshot 3](images/image3.png)
-![Screenshot 4](images/image4.png)
-![Screenshot 5](images/image5.png)
-![Screenshot 6](images/image6.png)
-![Screenshot 7](images/image7.png)
-![Screenshot 8](images/image8.png)
-![Screenshot 9](images/image9.png)
-![Screenshot 10](images/image10.png)
-![Screenshot 11](images/image11.png)
-![Screenshot 12](images/image12.png)
-![Screenshot 13](images/image13.png)
+<p align="center">
+  <img src="images/image1.png" width="700"/>
+  <img src="images/image2.png" width="700"/>
+  <img src="images/image3.png" width="700"/>
+  <img src="images/image4.png" width="700"/>
+  <img src="images/image5.png" width="700"/>
+  <img src="images/image6.png" width="700"/>
+  <img src="images/image7.png" width="700"/>
+  <img src="images/image8.png" width="700"/>
+  <img src="images/image9.png" width="700"/>
+  <img src="images/image10.png" width="700"/>
+  <img src="images/image11.png" width="700"/>
+  <img src="images/image12.png" width="700"/>
+  <img src="images/image13.png" width="700"/>
+</p>
 
