@@ -51,18 +51,19 @@ Download and install Python (3.x)
 ### Step 2: Install Required Libraries
 Open Command Prompt and run:
 
+```
 pip install tkcalendar pillow
+```
 
 ### Step 3: Run the Application
 Navigate to the project folder and run:
 
+```
 python app.py
+```
 
 ---
 
-## 📂 Project Structure
-
-```
 ## 📂 Project Structure
 
 ```
@@ -96,7 +97,6 @@ This project demonstrates GUI development and database integration using Python 
 
 Lakshmitha D  
 MCA Graduate
----
 
 ---
 
