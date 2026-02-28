@@ -92,19 +92,8 @@ MCA Graduate
 
 ## 📸 Application Screenshots
 
-<p align="center">
-  <img src="images/image1.png" width="700"/>
-  <img src="images/image2.png" width="700"/>
-  <img src="images/image3.png" width="700"/>
-  <img src="images/image4.png" width="700"/>
-  <img src="images/image5.png" width="700"/>
-  <img src="images/image6.png" width="700"/>
-  <img src="images/image7.png" width="700"/>
-  <img src="images/image8.png" width="700"/>
-  <img src="images/image9.png" width="700"/>
-  <img src="images/image10.png" width="700"/>
-  <img src="images/image11.png" width="700"/>
-  <img src="images/image12.png" width="700"/>
-  <img src="images/image13.png" width="700"/>
-</p>
+<img src="https://raw.githubusercontent.com/lakshmithad2714-hash/hospital-management-system/main/images/image1.png" width="700"/>
 
+<img src="https://raw.githubusercontent.com/lakshmithad2714-hash/hospital-management-system/main/images/image2.png" width="700"/>
+
+<img src="https://raw.githubusercontent.com/lakshmithad2714-hash/hospital-management-system/main/images/image3.png" width="700"/>
