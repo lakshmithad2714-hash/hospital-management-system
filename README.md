@@ -89,11 +89,22 @@ Lakshmitha D
 MCA Graduate
 ---
 
+---
 
 ## 📸 Application Screenshots
 
-<img src="https://raw.githubusercontent.com/lakshmithad2714-hash/hospital-management-system/main/images/image1.png" width="700"/>
-
-<img src="https://raw.githubusercontent.com/lakshmithad2714-hash/hospital-management-system/main/images/image2.png" width="700"/>
-
-<img src="https://raw.githubusercontent.com/lakshmithad2714-hash/hospital-management-system/main/images/image3.png" width="700"/>
+<p align="center">
+  <img src="images/image1.png.jpeg" width="700"/>
+  <img src="images/image2.png.jpeg" width="700"/>
+  <img src="images/image3.png.jpeg" width="700"/>
+  <img src="images/image4.png.jpeg" width="700"/>
+  <img src="images/image5.png.jpeg" width="700"/>
+  <img src="images/image6.png.jpeg" width="700"/>
+  <img src="images/image7.png.jpeg" width="700"/>
+  <img src="images/image8.png.jpeg" width="700"/>
+  <img src="images/image9.png.jpeg" width="700"/>
+  <img src="images/image10.png.jpeg" width="700"/>
+  <img src="images/image11.png.jpeg" width="700"/>
+  <img src="images/image12.png.jpeg" width="700"/>
+  <img src="images/image13.png.jpeg" width="700"/>
+</p>
