@@ -87,4 +87,21 @@ This project demonstrates GUI development and database integration using Python 
 
 Lakshmitha D  
 MCA Graduate
+---
+
+## 📸 Application Screenshots
+
+![Screenshot 1](images/image1.png)
+![Screenshot 2](images/image2.png)
+![Screenshot 3](images/image3.png)
+![Screenshot 4](images/image4.png)
+![Screenshot 5](images/image5.png)
+![Screenshot 6](images/image6.png)
+![Screenshot 7](images/image7.png)
+![Screenshot 8](images/image8.png)
+![Screenshot 9](images/image9.png)
+![Screenshot 10](images/image10.png)
+![Screenshot 11](images/image11.png)
+![Screenshot 12](images/image12.png)
+![Screenshot 13](images/image13.png)
 
