@@ -62,8 +62,6 @@ python app.py
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```
 Hospital-management-system/
 │
